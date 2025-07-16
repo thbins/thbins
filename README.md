@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Notion 정리](https://nostalgic-wandflower-6a1.notion.site/Kubernetes-232c3677fd7880da9d47fd29b0445038?source=copy_link)
+[Notion 정리](https://nostalgic-wandflower-6a1.notion.site/thbins-232c3677fd7880199da9fb2540127920?source=copy_link)
 
 <!--
 **thbins/thbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
