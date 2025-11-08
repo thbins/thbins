@@ -1,6 +1,4 @@
-## Hi there 👋
 
-[Notion 정리](https://nostalgic-wandflower-6a1.notion.site/thbins-232c3677fd7880199da9fb2540127920?source=copy_link)
 
 <!--
 **thbins/thbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Hi there 👋
+
+[Notion 정리](https://nostalgic-wandflower-6a1.notion.site/thbins-232c3677fd7880199da9fb2540127920?source=copy_link)
+
 -->
