@@ -17,7 +17,11 @@
 - 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 | 2024.03.11 ~ 2024.08.30 (960H)
 
 ---
-  
+
+## 📊 Problem Solving (Coding Test Performance)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
+
+---
 <!--
 **thbins/thbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
