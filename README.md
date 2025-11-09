@@ -13,12 +13,12 @@
 ---
 
 
-## 🏫 Education
+## 🏫 Educations
 - AWS CLOUD SCHOOL 8TH | 2024.12.26 ~ 2025.07.11 (1050H)
 - 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 | 2024.03.11 ~ 2024.08.30 (960H)
 ---
 
-## Skills
+## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,git,gitlab,kubernetes,docker,py,fastapi,grafana,prometheus,jenkins,githubactions,terraform,ansible,nginx,mysql,redis,sklearn,tensorflow,selenium&perline=10)](https://skillicons.dev)
 
 
