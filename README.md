@@ -5,6 +5,7 @@
 
 
 ## 📜 Qualifications
+- 리눅스마스터 2급 
 - 정보처리기사 (2025.06.13)  
 - AWS Soultion Architect - Associate (2025.06.08)
 - ADsP (데이터 분석 준전문가) (2024.06.07)
