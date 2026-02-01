@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,git,gitlab,kubernetes,docker,py,fastapi,grafana,prometheus,jenkins,githubactions,terraform,ansible,nginx,mysql,redis,sklearn,tensorflow,selenium&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,apple, git,gitlab,kubernetes,docker,go, py,fastapi,grafana,prometheus,jenkins,githubactions,terraform,ansible,nginx,mysql,redis,sklearn,tensorflow,selenium&perline=10)](https://skillicons.dev)
 
 
 ## 📊 Problem Solving (Coding Test Performance)
