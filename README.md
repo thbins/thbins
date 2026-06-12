@@ -20,9 +20,11 @@
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,apple,git,gitlab,kubernetes,docker,go,py,fastapi,grafana,prometheus,jenkins,githubactions,terraform,ansible,nginx,mysql,redis,sklearn,tensorflow,selenium&perline=11)](https://skillicons.dev)
 
-
+<!--
 ## 📊 Problem Solving (Coding Test Performance)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
+-->
+
 ---
 <!--
 **thbins/thbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
